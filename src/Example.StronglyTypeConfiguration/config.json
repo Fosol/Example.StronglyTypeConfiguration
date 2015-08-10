@@ -1,0 +1,16 @@
+{
+    "AppSettings": {
+        "SiteTitle": "Example.StronglyTypeConfiguration"
+    },
+    "Data": {
+        "DefaultConnection": {
+            "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-Example.StronglyTypeConfiguration-8af6b852-48eb-46d3-8931-59877f80eb15;Trusted_Connection=True;MultipleActiveResultSets=true"
+        }
+    },
+    "ExampleBase": {
+        "Stuff": {
+            "Prop1": [ "value1", "value2" ],
+            "Prop2": [ "value1", "value2" ]
+        }
+    }
+}
